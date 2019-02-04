@@ -36,3 +36,6 @@ function doWhileLoop(num) {
 }
 
 
+doWhileLoop(0)
+console.log("break")
+doWhileLoop(10)
